@@ -1,80 +1,17 @@
-# 🖥️ GNU_AugumentedIntelligenceLab 🖥️  
-경상국립대학교 컴퓨터과학과 증강지능 연구실 리포지토리  [☞즉시 이동☜](https://ailab.gnu.ac.kr) 
+---
 
-# 💁 증강지능 연구실 소개 
+# 🖥️ 경상국립대학교 컴퓨터공학과 APEX Lab 🖥️
 
-## 증강지능이란?
+APEX는 'Augmented Perception and Extended eXperience'를 의미하며, 컴퓨터의 확장된 인식 능력을 통해 사람에게 더욱 편리하고 확장된 경험을 제공하는 것을 목표로 합니다.
 
-- Augmented Intelligence
+**본 저장소는 더 이상 사용되지 않으며, 모든 정보는 아래 새 주소로 이관되었습니다:**
+[APEX Lab](https://apex.gnu.ac.kr)
 
-### 정의
+---
 
-- 인공지능(AI)과 인간의 지능의 결합
+# 🖥️ Gyeongsang National University, Computer Science and Engineering, APEX Lab 🖥️
 
-- 인간이 인공지능의 도움을 받아
-    - 인지능력 확장
-    - 의사결정 도움
-    - 문제해결능력 향상
+APEX stands for 'Augmented Perception and Extended eXperience', aiming to provide people with more convenient and extended experiences through enhanced computer perception capabilities.
 
-### 목표 ⭐
-
-- 인공지능을 인간의 가치판단과 의사결정을 지원하는 기술로 발전시키는 것
-
-- 인간의 지능과 기술을 보완
-  - 인간의 지능을 복제하는 것을 목표로 하는 인공지능과 다름
-  
-- 인공지능에 자율성 부여는 지양
-
-## 연구실 소개
-
-### 연구실원 👨🏻‍💻👩🏻‍💻
-
-- **지도교수**
-  - **이수원 교수님** 👨🏻‍🏫
-- 연구실원
-  - 황승현
-  - 배지호
-  - 이민재
-  - 최보규
-  - 김웅식
-  - 연수민
-  - 류어진
-
-### 보유 장비 🧰
-
-- 3D Printer
-- GPU Server
-- Microsoft HoloLens 2
-- Microsoft Azure Kinect
-
-### 연구분야 🌐
-
-- 인공지능의 응용
-- 인간과 컴퓨터 상호작용(Human-computer interaction)
-- 증강현실(Augmented Reality)
-- 가상현실(Virtual Reality)
-
-### 장점 ❤️
-
-- 배경지식이 없어도 친절한 선배가 하나하나 다 가르쳐줍니다.
-  - C++, OpenCV
-  - Python, TensorFlow, Keras
-- 교수님이 최고임
-
-## 문의 📞
-
-- 30동 414호 (이수원 교수님 연구실)
-- 30동 415호 (증강지능 연구실)
-
-### 우대 사항 💡
-
-- 인공지능에 관심있는 사람
-- 증강현실, 가상현실에 관심있는 사람
-- ~~대학원 진학을 희망하는 사람~~
-
-## version
-
-- ~~2021-02-23~~
-- ~~2022-09-16~~
-- ~~2023-03-21~~
-- 2024-05-31
+**This repository is deprecated and all information has been relocated to the new address below:**
+[APEX Lab](https://apex.gnu.ac.kr)
